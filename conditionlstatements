@@ -1,0 +1,10 @@
+if (5>3):
+    print("true")
+elif(5>6):
+    print("false")
+else:
+    print("Nothing")
+
+
+    # ==,!=,<=,>=
+    # and  , or

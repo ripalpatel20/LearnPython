@@ -1,0 +1,10 @@
+try:
+    if a>3:
+        print("a")
+except:
+    print("Hello World!")
+
+    (" HELLO\n"
+     "    Ripal\n"
+     "    How are you?\n"
+     "    ")
